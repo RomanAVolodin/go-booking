@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/RomanAVolodin/go-booking/pkg/config"
-	"github.com/RomanAVolodin/go-booking/pkg/handlers"
-	"github.com/RomanAVolodin/go-booking/pkg/render"
+	"github.com/RomanAVolodin/go-booking/internal/config"
+	"github.com/RomanAVolodin/go-booking/internal/handlers"
+	"github.com/RomanAVolodin/go-booking/internal/render"
 	"github.com/alexedwards/scs/v2"
 	"log"
 	"net/http"
